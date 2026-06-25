@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Dhruv Parmar</h1>
-<h3 align="center">Applied AI Engineer • Product AI Engineer • Building Production-Ready AI Systems</h3>
-
+<h3 align="center">
+Software Engineer • Applied AI Engineer • Product AI Engineer
+</h3>
 <p align="center">
 I build AI-powered products, autonomous agents, and full-stack applications that solve real-world problems.
 </p>
