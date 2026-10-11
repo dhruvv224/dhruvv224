@@ -2,21 +2,21 @@
 
 **Software Engineer | Applied AI Engineer**
 
-I build full-stack applications and AI-powered systems, with a focus on LLM integrations, agent workflows, and backend engineering.
+I build full-stack applications and AI-powered systems, focusing on TypeScript, React, Python, and LLM-based applications.
 
-- Working with **TypeScript, React, Next.js, Node.js, and Python**
+- Building with **TypeScript, React, Next.js, and Python**
 - Exploring **AI agents, RAG, tool calling, and MCP**
-- Interested in building reliable software that solves real problems
+- Interested in backend systems, AI infrastructure, and product engineering
 - Based in India
 - Email: [dhruvparmar2204@gmail.com](mailto:dhruvparmar2204@gmail.com)
 
 ### Tech Stack
 
-**Languages:** TypeScript, JavaScript, Python  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MongoDB, PostgreSQL  
-**AI:** LLM APIs, RAG, AI Agents, LangGraph, MCP  
+**Languages:** TypeScript, Python, JavaScript  
+**Frontend:** React, Next.js, TSX, Tailwind CSS  
+**Backend:** Node.js, Express.js, Python, REST APIs  
+**AI Engineering:** LLM APIs, AI Agents, RAG, LangGraph, LangChain, MCP  
+**Databases:** PostgreSQL, MongoDB  
 **Tools:** Git, GitHub, Docker, Postman
 
 ### GitHub Stats
@@ -28,4 +28,4 @@ I build full-stack applications and AI-powered systems, with a focus on LLM inte
 
 ---
 
-*Building useful software, learning continuously, and contributing to the developer community.*
+*Building practical software at the intersection of product engineering and AI.*
