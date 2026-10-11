@@ -13,18 +13,11 @@ I build full-stack applications and AI-powered systems, focusing on TypeScript, 
 ### Tech Stack
 
 **Languages:** TypeScript, Python, JavaScript  
-**Frontend:** React, Next.js, TSX, Tailwind CSS  
-**Backend:** Node.js, Express.js, Python, REST APIs  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs  
 **AI Engineering:** LLM APIs, AI Agents, RAG, LangGraph, LangChain, MCP  
 **Databases:** PostgreSQL, MongoDB  
 **Tools:** Git, GitHub, Docker, Postman
-
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dhruvv224&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvv224&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
-</p>
 
 ---
 
