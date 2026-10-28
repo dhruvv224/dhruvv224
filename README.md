@@ -9,7 +9,7 @@ I build full-stack products and AI-powered systems, with a focus on **LLM applic
 - Interested in AI infrastructure, developer tools, and production AI
 - Based in India
 
-**Contact:** [Email](mailto:dhruvparmar2204@gmail.com) · [Portfolio](https://your-portfolio-url.com) · [LinkedIn](https://linkedin.com/in/your-linkedin)
+**Contact:** [Email](mailto:dhruvparmar2204@gmail.com) · [Portfolio]([https://your-portfolio-url.com](https://dhruv-parmar-portfolio.vercel.app/)) · [LinkedIn](https://linkedin.com/in/your-linkedin)
 
 ---
 
